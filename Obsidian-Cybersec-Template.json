@@ -1,0 +1,20 @@
+{
+  "project_name": "Zero TrustX - Security Research",
+  "metadata": {
+    "author": "Zero TrustX",
+    "date": "2026-01-28",
+    "environment": "Kali Linux Native (No VM)",
+    "security_model": "Zero Trust Architecture",
+    "connection_type": "Tor + Rotating Proxies"
+  },
+  "vulnerability_report": {
+    "vector_id": "ZT-XXXX",
+    "target_asset": "URL/IP del Objetivo",
+    "vulnerability_type": "e.g., SQLi, RCE, IDOR",
+    "severity": "Crítica / Alta / Media / Baja",
+    "tools_used": ["Nmap", "Burp Suite", "Metasploit", "Custom Python Scripts"],
+    "proof_of_concept": "Pasos detallados de la explotación",
+    "remediation": "Recomendaciones técnicas de mitigación"
+  },
+  "tags": ["RedTeam", "Pentesting", "Obsidiana", "EthicalHacking"]
+}
