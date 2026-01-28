@@ -14,3 +14,5 @@ Mi flujo de trabajo integra la recolección de inteligencia técnica con la visu
 ---
 📫 **Contact:** spidlvv971@gmail.com
 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/zero-trustx)
+### 📂 Featured Resources
+- [Obsidian Cybersecurity Template](./Obsidian-Cybersec-Template.json): Mi estructura personalizada para documentar hallazgos, vectores de ataque y notas de inteligencia bajo el modelo Zero Trust.
